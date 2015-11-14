@@ -1,2 +1,2 @@
 # boost_optional
-My implementation of optional
+My code from practise lecture
